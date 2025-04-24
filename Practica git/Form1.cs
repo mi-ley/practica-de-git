@@ -16,5 +16,10 @@ namespace Practica_git
         {
             InitializeComponent();
         }
+
+        //gdjhdhdhhjfhjffhjdhfjkhgh
+        int a = 0;
+        //holas
+        float b = 0;
     }
 }
