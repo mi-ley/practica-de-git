@@ -25,5 +25,6 @@ namespace Practica_git
         //otra ves soy yo
         //makarena
         //victorino
+        int c = 0;
     }
 }
